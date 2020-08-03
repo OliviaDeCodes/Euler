@@ -1,1 +1,1 @@
-# O004.Euler_Exercise
+# Euler_Exercise
